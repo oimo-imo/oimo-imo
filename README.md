@@ -1,8 +1,9 @@
 ##  in spring one sleeps a sleep that knows no dawn 💤
 
-しゅうみんあかつきをおぼえず～
+しゅんみんあかつきをおぼえず～
 
 #### これはこういうのあるとかっこいいかな！って入れてみたやつ！
+なにもしてないのがバレてまう
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oimo-imo&theme=moonlight)
 
 
